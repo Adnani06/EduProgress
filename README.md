@@ -34,3 +34,27 @@ La première version n’intègre pas :
 - Le paiement des cours.
 - La messagerie instantanée.
 - La gestion administrative et comptable.
+
+## Acteurs et rôles
+
+### Professeur
+- Gère les profils des élèves.
+- Dépose les supports de cours.
+- Crée et attribue les exercices.
+- Consulte les rendus.
+- Évalue le niveau de maîtrise des notions.
+- Suit la progression des élèves.
+
+### Élève
+- Consulte les supports de cours.
+- Accède aux exercices qui lui sont attribués.
+- Dépose ses rendus.
+- Consulte ses évaluations et sa progression.
+
+### Parent
+- Consulte la progression de son enfant.
+- Consulte les évaluations et les notions à revoir.
+
+### Administrateur
+- Gère les comptes utilisateurs.
+- Assure la gestion générale de l’application.
